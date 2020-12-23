@@ -19,3 +19,6 @@ Concepts used in implementing the project are:
 7. LiveData
 
 8. RecyclerView
+
+
+![](NotesApp.gif)
